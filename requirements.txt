@@ -1,0 +1,11 @@
+# Dependencias principales
+tkinter>=8.6
+tkcalendar>=1.6.1
+pygame>=2.5.0
+matplotlib>=3.7.1
+numpy>=1.24.3
+mysql-connector-python>=8.0.33
+
+# Dependencias opcionales pero recomendadas
+pillow>=10.0.0  # Para manejo de imágenes
+babel>=2.12.1   # Para formateo de fechas y números 
